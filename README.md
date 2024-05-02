@@ -1,5 +1,6 @@
 # Tietokantojen perusteet, Helsingin yliopisto
 
+- [kesä 2024](/kesa-2024)
 - [kevät 2024](/kevat-2024)
 - [syksy 2023](/syksy-2023)
 - [kesä 2023](/kesa-2023)
